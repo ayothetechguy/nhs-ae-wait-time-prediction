@@ -1,0 +1,13 @@
+hour
+day_of_week
+month
+is_weekend
+is_peak_hour
+is_night
+triage_category
+age
+arrival_mode_encoded
+complaint_encoded
+department_occupancy
+staff_available
+previous_visits_30d
